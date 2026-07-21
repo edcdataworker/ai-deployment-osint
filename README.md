@@ -29,7 +29,7 @@ Le fichier `.ipynb` devra être ajouté au dossier `notebooks/` après export de
 ## Contenu du dépôt
 
 - `captures/` : captures des dashboards Kibana ;
-- `livrable/` : livrable final au format PDF ;
+- `livrable/Rendu_AI_Deployment_FINAL.pdf` : livrable final au format PDF, construit sur le template Eugenia School ;
 - `scripts/` : script de génération du livrable.
 
 ## Auteurs
